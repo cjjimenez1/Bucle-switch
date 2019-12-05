@@ -14,7 +14,7 @@ switch ($i) {
 }
 ?>
 
-//Este otro ejemplo compara una expresión más avierta
+//Este otro ejemplo compara una expresión más abierta
 <?php
 switch($valor)
     {
