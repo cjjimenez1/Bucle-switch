@@ -15,6 +15,7 @@ switch ($i) {
 ?>
 
 //Este otro ejemplo compara una expresión más avierta
+<?php
 switch($valor)
     {
     case ($valor < 5):
@@ -29,3 +30,4 @@ switch($valor)
     echo "Excelente nota";
     break;
     }
+?>
